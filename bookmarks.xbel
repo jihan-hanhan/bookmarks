@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :82: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.bilibili.com/" id="1">
+  <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+</bookmark>
+<bookmark href="https://www.mcmod.cn/" id="2">
+  <title>MC百科|最大的Minecraft中文MOD百科</title>
+</bookmark>
+<bookmark href="https://sellercentral.amazon.com/home?mons_sel_dir_mcid=amzn1.merchant.d.ABAUK6CC3EG6FDOFBIZYBLMLQ2XQ&amp;mons_sel_mkid=ATVPDKIKX0DER&amp;mons_sel_dir_paid=amzn1.pa.d.ADRQRP4B7SZVL7WE5366PCAV7XBA&amp;ignore_selection_changed=true" id="3">
+  <title>亚马逊</title>
+</bookmark>
+<bookmark href="http://scm.donlim.com/xinbao/index.aspx" id="4">
+  <title>新宝供应链平台</title>
+</bookmark>
+<bookmark href="https://www.gate.com/zh/price" id="5">
+  <title>加密货币实时价格与市值，追踪 Gate 市场 2201 币种行情 | Gate.com</title>
+</bookmark>
+<folder id="6">
+  <title>暂时</title>
+  <bookmark href="https://www.planetminecraft.com/" id="10">
+    <title>Planet Minecraft Community | Creative fansite for everything Minecraft!</title>
+  </bookmark>
+  <bookmark href="https://bitmidi.com/opus-life-is-life-k-mid" id="11">
+    <title>OPUS.Life is life K.mid — Free MIDI — BitMidi</title>
+  </bookmark>
+  <bookmark href="https://fanyi.baidu.com/mtpe-individual/multimodal?ext_channel=DuSearch" id="12">
+    <title>百度翻译-您的超级翻译伙伴（文本、文档翻译）</title>
+  </bookmark>
+  <bookmark href="https://github.com/settings/two_factor_checkup" id="13">
+    <title>验证您的双因素配置 --- Verify your two-factor configuration</title>
+  </bookmark>
+  <bookmark href="https://fgn.cdn.serverable.com/common/flashes/nf/village_rhapsody/index.html?d=20230406142759?e=MTc2NjE5OTQ3MQ%3D%3D" id="14">
+    <title>fgn.cdn.serverable.com/common/flashes/nf/village_rhapsody/index.html?d=20230406142759?e=MTc2NjE5OTQ3MQ%3D%3D</title>
+  </bookmark>
+  <bookmark href="https://how_to_raise_a_happy_neet.fgn.cdn.serverable.com/common/flashes/nf/how_to_raise_a_happy_neet/index.html?d=20250919005829?e=MTc2NjE4Mzc1NA%3D%3D" id="15">
+    <title>Raising a happy NEET 2.1.1</title>
+  </bookmark>
+  <bookmark href="https://21st.dev/" id="16">
+    <title>React Components, Templates &amp; Themes — 12,000+ Crafted UI | 21st | 21st</title>
+  </bookmark>
+  <bookmark href="https://www.androiddevtools.cn/" id="17">
+    <title>AndroidDevTools - Android 开发工具 | Android Studio 下载 | android studio 下载 | download android studio | Android SDK 下载 | download android sdk | SDK Tools 下载 | download android sdk tools | Gradle 下载 | download gradle</title>
+  </bookmark>
+  <bookmark href="https://mirrors.ustc.edu.cn/" id="18">
+    <title>USTC Open Source Software Mirror</title>
+  </bookmark>
+  <bookmark href="https://soundeffect-lab.info/" id="19">
+    <title>音效实验室 - 免费、商用免费、无需报告的音效素材下载 --- 効果音ラボ - フリー、商用無料、報告不用の効果音素材をダウンロード</title>
+  </bookmark>
+  <bookmark href="https://www.figma.com/" id="49">
+    <title>Figma: The collaborative canvas for design, code, and AI</title>
+  </bookmark>
+  <bookmark href="https://s.lycopoi.club/" id="50">
+    <title>莉可POI - 萌导航 - MOE521 - 你身边的二次元导航姬 - 及时收录动漫网站及资讯、宅网站、萌网站、动画、漫画、游戏等内容。让您获得更加简单快捷的二次元体验！</title>
+  </bookmark>
+  <bookmark href="https://platform.sensenova.cn/console" id="51">
+    <title>SenseNova · LLM API 服务平台</title>
+  </bookmark>
+  <bookmark href="https://api.zhanglin.dpdns.org/home" id="52">
+    <title>Home - Sub2API</title>
+  </bookmark>
+  <bookmark href="https://www.acgxmh.com/" id="53">
+    <title>里番</title>
+  </bookmark>
+  <bookmark href="https://cf.phicm.focalors.ltd/" id="54">
+    <title>PhiCommunity</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>有用的</title>
+  <bookmark href="https://www.midiclouds.com/" id="20">
+    <title>MIDI云 ◇ MIDI音乐下载与分享</title>
+  </bookmark>
+  <bookmark href="https://chat.qwen.ai/" id="21">
+    <title>Qwen</title>
+  </bookmark>
+  <bookmark href="https://prism.uyanide.com/" id="22">
+    <title>光棱坦克工厂</title>
+  </bookmark>
+  <bookmark href="https://www.tskau.com/" id="23">
+    <title>找工具啦 - 您的在线工具箱</title>
+  </bookmark>
+  <bookmark href="https://wallpapers.microsoft.design/" id="24">
+    <title>Microsoft Design - Wallpapers</title>
+  </bookmark>
+  <bookmark href="https://lkssite.vip/" id="25">
+    <title>LKs 网站推荐合集</title>
+  </bookmark>
+  <bookmark href="https://mclt.cn/item" id="26">
+    <title>我的世界JE自定义物品1.19</title>
+  </bookmark>
+  <bookmark href="https://www.openfrp.net/" id="27">
+    <title>OpenFrp 开放映射 — 免费内网穿透_免费端口映射_高速_不限流量_Minecraft我的世界_开发调试_群辉NAS_无需公网_免备案</title>
+  </bookmark>
+  <bookmark href="https://amemei9f-lists.top/" id="28">
+    <title>Amemei-Lists</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="29">
+    <title>DeepSeek - 探索未至之境</title>
+  </bookmark>
+  <bookmark href="https://www.luogu.com.cn/" id="55">
+    <title>首页 - 洛谷 | 计算机科学教育新生态</title>
+  </bookmark>
+  <bookmark href="https://3dt.easecation.net/" id="56">
+    <title>Cube 3D Text</title>
+  </bookmark>
+  <bookmark href="https://tj.qdqqd.com/tphx/" id="57">
+    <title>图片混淆工具 - 柯艺云</title>
+  </bookmark>
+  <bookmark href="https://teemidnight.online/" id="58">
+    <title>首页 - Mid·Night Teeworlds</title>
+  </bookmark>
+  <bookmark href="https://docs.qq.com/aio/DSXd3a1RmaFRTZXBP?p=glD9eD1y2nrLwQnYCahvK0" id="59">
+    <title>在 WSL2 中使用 WSLg (XWayland) 实现完整桌面环境</title>
+  </bookmark>
+  <bookmark href="https://www.danjipai.com/" id="60">
+    <title>单机派</title>
+  </bookmark>
+  <bookmark href="https://flutter.cn/" id="61">
+    <title>Flutter: 为所有屏幕创造精彩 - Flutter 中文开发者网站 - Flutter</title>
+  </bookmark>
+  <bookmark href="https://github.com/pmh1314520/WebRPA" id="62">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://patorjk.com/software/taag/#p=display&amp;f=Graffiti&amp;t=Type+Something+&amp;x=none&amp;v=4&amp;h=4&amp;w=80&amp;we=false" id="63">
+    <title>Text to ASCII Art Generator (TAAG)</title>
+  </bookmark>
+  <bookmark href="https://territorial-io.com/" id="64">
+    <title>Territorial io</title>
+  </bookmark>
+  <bookmark href="https://www.19yxw.com/Article/2017-5-24/476998.html" id="73">
+    <title>我的世界创世神教程第四十九节树木生成与移除_19游戏网</title>
+  </bookmark>
+  <bookmark href="https://tools.dayun.cool/manbo" id="74">
+    <title>曼波配音生成器</title>
+  </bookmark>
+  <bookmark href="https://www.downkuai.com/" id="75">
+    <title>当快软件园 - 发现好应用、好游戏，做有态度的应用市场</title>
+  </bookmark>
+  <bookmark href="https://www.pixiv.net/" id="76">
+    <title>[pixiv]</title>
+  </bookmark>
+  <bookmark href="https://github.com/" id="77">
+    <title>GitHub</title>
+  </bookmark>
+  <bookmark href="https://gh-proxy.com/" id="78">
+    <title>GitHub加速下载代理 - 快速访问 GitHub 文件</title>
+  </bookmark>
+  <bookmark href="https://mui.org.cn/material-ui/getting-started/" id="79">
+    <title>概述 - Material UI - MUI 组件库</title>
+  </bookmark>
+  <bookmark href="https://poetry.palemoky.com/" id="80">
+    <title>诗泉 — 免费开源的中文古诗词 API</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/tardis/zm/art/532505732?source_id=1005" id="81">
+    <title>Godot基于噪声生成岛屿地图</title>
+  </bookmark>
+  <bookmark href="https://mathdf.com/equ/cn/" id="82">
+    <title>在线方程、不等式和系统计算器</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>docs</title>
+  <bookmark href="https://www.runoob.com/cplusplus/cpp-data-types.html" id="30">
+    <title>C++ 数据类型 | 菜鸟教程</title>
+  </bookmark>
+  <bookmark href="https://worldvectorlogo.com/zh" id="31">
+    <title>Worldvectorlogo: Brand logos free to download</title>
+  </bookmark>
+  <bookmark href="https://docs.mihono.cn/zh/modpack/kubejs/1.20.1/KubeJSCourse/README" id="32">
+    <title>KubeJS教程-1.20.1 | CryChic文档</title>
+  </bookmark>
+  <bookmark href="https://free-apis.github.io/#/" id="33">
+    <title>Free APIs</title>
+  </bookmark>
+  <bookmark href="https://pan.xunlei.com/s/VObgrrbiIRBeQ65w9bEQdfUTA1?pwd=xtjf&amp;path=%2F%E5%A1%9E%E9%9B%B7%E5%8D%A12%2F%E5%A1%9E%20%E9%9B%B7%20%E5%8D%A12%E6%9C%80%E6%96%B01.3%EF%BC%88%E6%B8%B8%E6%88%8F%E6%9C%AC%E4%BD%93%2B%E8%A1%A5%E4%B8%81%EF%BC%89" id="34">
+    <title>迅雷云盘</title>
+  </bookmark>
+  <bookmark href="https://aozijx.github.io/hiner/" id="35">
+    <title>Hinerの小窝</title>
+  </bookmark>
+  <bookmark href="https://astral.fan/" id="36">
+    <title>AstralGame|游戏联机</title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/video/BV1koUVBaEfG/?spm_id_from=333.1007.tianma.6-2-18.click&amp;vd_source=40375168df21a85793661c675f6dadc1" id="37">
+    <title>Edge完全调教指南：从臃肿到极速_哔哩哔哩_bilibili</title>
+  </bookmark>
+  <bookmark href="https://www.minehost.io/my_servers" id="38">
+    <title>My Servers | Minehost.io</title>
+  </bookmark>
+  <bookmark href="https://ti.luogu.com.cn/" id="39">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://ti.luogu.com.cn/problemset/" id="65">
+    <title>题库 - 洛谷有题</title>
+  </bookmark>
+  <bookmark href="https://www.curseforge.com/members/xjqshm/projects" id="66">
+    <title>xjqshm 个人资料 - 成员列表 - CurseForge</title>
+  </bookmark>
+  <bookmark href="https://www.euclidea.xyz/" id="67">
+    <title>Euclidea - Geometric Constructions Game with Straightedge and Compass</title>
+  </bookmark>
+  <bookmark href="https://www.euclidea.xyz/en/game/packs/Alpha/level/RhombusInRect" id="68">
+    <title>Euclidea - Rhombus in Rectangle</title>
+  </bookmark>
+  <bookmark href="https://2x.nz/posts/gh-cf/" id="69">
+    <title>终极版！国内免梯上Github！ - 《二叉树树》官方网站</title>
+  </bookmark>
+  <bookmark href="https://docs.qq.com/aio/DV2pBdXZuaXdzd0pI?p=7peyTgYviMS1DFGT1gsIC1" id="70">
+    <title>背景</title>
+  </bookmark>
+  <bookmark href="https://www.php.cn/faq/2646707.html#:~:text=%E6%83%A0%E6%99%AE%E7%94%B5%E8%84%91%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%99%AA%E9%9F%B3%E9%9C%80%E5%85%88%E5%90%AF%E7%94%A8HP%20Audio,Control%E4%B8%93%E5%B1%9E%E9%99%8D%E5%99%AA%EF%BC%88%E5%90%AB%E7%8E%AF%E5%A2%83%E5%99%AA%E9%9F%B3%E6%8A%91%E5%88%B6%E4%B8%8E%E8%AF%AD%E9%9F%B3%E6%B8%85%E6%99%B0%E5%BA%A6%E5%A2%9E%E5%BC%BA%EF%BC%89%EF%BC%8C%E5%86%8D%E9%85%8D%E7%BD%AEWindows%E7%B3%BB%E7%BB%9F%E7%BA%A7%E5%99%AA%E5%A3%B0%E6%8A%91%E5%88%B6%E4%B8%8E%E5%9B%9E%E5%A3%B0%E6%B6%88%E9%99%A4%EF%BC%8C%E5%90%8C%E6%AD%A5%E5%B0%86%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%8A%A0%E5%BC%BA%E8%AE%BE%E4%B8%BA0.0dB%E3%80%81%E9%87%87%E6%A0%B7%E7%8E%87%E8%AE%BE%E4%B8%BA48000Hz%EF%BC%8C%E5%B9%B6%E7%A6%81%E7%94%A8%E7%8B%AC%E5%8D%A0%E6%8E%A7%E5%88%B6%E3%80%82%20%E6%83%A0%E6%99%AE%20%E7%94%B5%E8%84%91%E8%87%AA%E5%B8%A6%E9%BA%A6%E5%85%8B%E9%A3%8E%E5%87%BA%E7%8E%B0%E8%83%8C%E6%99%AF%E5%99%AA%E9%9F%B3%E3%80%81%E7%94%B5%E6%B5%81%E5%A3%B0%E6%88%96%E4%BA%BA%E5%A3%B0%E6%A8%A1%E7%B3%8A%E6%97%B6%EF%BC%8C%E9%9C%80%E9%92%88%E5%AF%B9%E6%80%A7%E5%90%AF%E7%94%A8HP%E4%B8%93%E5%B1%9E%E9%9F%B3%E9%A2%91%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%9D%97%E4%B8%8EWindows%E7%B3%BB%E7%BB%9F%E7%BA%A7%E9%99%8D%E5%99%AA%E9%80%9A%E8%B7%AF%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%A5%97%E7%94%A8%E9%80%9A%E7%94%A8%E8%AE%BE%E7%BD%AE%E8%B7%AF%E5%BE%84%E3%80%82" id="71">
+    <title>惠普电脑自带麦克风降噪设置与语音增强配置指南-常见问题-PHP中文网</title>
+  </bookmark>
+  <bookmark href="https://www.earthol.com/fun-1-chernobyl.html" id="72">
+    <title>切尔诺贝利核电站地图-卫星地图</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>教程暂时</title>
+  <bookmark href="https://zhuanlan.zhihu.com/p/6381527737" id="40">
+    <title>【老李游戏学院】一文搞懂Godot4中的Tilemap相关知识 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.redblobgames.com/grids/hexagons/" id="41">
+    <title>六边形网格 --- Hexagonal Grids</title>
+  </bookmark>
+  <folder id="42">
+    <title>page hex</title>
+    <bookmark href="https://www.redblobgames.com/grids/hexagons/#neighbors" id="45">
+      <title>六边形网格 --- Hexagonal Grids</title>
+    </bookmark>
+    <bookmark href="https://www.redblobgames.com/grids/hexagons/#range-obstacles" id="46">
+      <title>六边形网格 --- Hexagonal Grids</title>
+    </bookmark>
+    <bookmark href="https://www.redblobgames.com/grids/hexagons/#rotation" id="47">
+      <title>六边形网格 --- Hexagonal Grids</title>
+    </bookmark>
+    <bookmark href="https://www.redblobgames.com/grids/hexagons/#range-intersection" id="48">
+      <title>六边形网格 --- Hexagonal Grids</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.cnblogs.com/ljy-endl/p/11411665.html" id="43">
+    <title>矩阵乘法（超详细！！！） - endl\n - 博客园</title>
+  </bookmark>
+  <bookmark href="https://mintlify.wiki/godotengine/godot/networking/overview" id="44">
+    <title>Networking Overview - Godot Engine</title>
+  </bookmark>
+</folder>
+</xbel>
