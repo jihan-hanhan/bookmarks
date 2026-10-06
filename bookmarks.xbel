@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :82: for Floccus bookmark sync browser extension -->
+<!--- highestId :85: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/" id="1">
   <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
@@ -248,5 +248,14 @@
   <bookmark href="https://mintlify.wiki/godotengine/godot/networking/overview" id="44">
     <title>Networking Overview - Godot Engine</title>
   </bookmark>
+  <bookmark href="https://busyogg.github.io/article/687e4eb8a728/#:~:text=%E5%BA%94%E7%94%A8%E9%9C%80%E8%A6%81%E8%AF%BB%E5%8F%96%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%8C%E5%9C%A8%20environment%20%E8%AE%BE%E7%BD%AE%E5%8D%B3%E5%8F%AF%EF%BC%88%E4%BB%A5%20KDE%20%E4%B8%BA%E4%BE%8B%EF%BC%89%E3%80%82%20niri%20%E7%9A%84%E7%AA%97%E5%8F%A3%E6%8D%95%E8%8E%B7%E4%BE%9D%E8%B5%96%E4%BA%8E%20GNOME,%E5%8F%AA%E8%83%BD%E4%BB%A5%20GNOME%20%E7%9A%84%20portal%20%E4%B8%BA%E4%B8%BB%E3%80%82%20%E4%B8%8D%E8%BF%87%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E5%8D%95%E7%8B%AC%E8%AE%BE%E7%BD%AE%20%2Fusr%2Fshare%2Fxdg-desktop-portal%2Fniri-portals.conf%20%E9%87%8C%E7%9A%84%E5%80%BC%E6%9D%A5%E6%8C%87%E5%AE%9A%E9%9C%80%E8%A6%81%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82" id="83">
+    <title>niri 疑难解答 - Busyo&apos;s Blog</title>
+  </bookmark>
 </folder>
+<folder id="84">
+  <title>收藏夹栏</title>
+</folder>
+<bookmark href="https://wanzhuanmi.com/" id="85">
+  <title>玩转节点 - 每日更新Clash/SSR/V2ray免费节点</title>
+</bookmark>
 </xbel>
