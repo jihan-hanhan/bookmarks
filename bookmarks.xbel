@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :85: for Floccus bookmark sync browser extension -->
+<!--- highestId :86: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/" id="1">
   <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
@@ -257,5 +257,8 @@
 </folder>
 <bookmark href="https://wanzhuanmi.com/" id="85">
   <title>玩转节点 - 每日更新Clash/SSR/V2ray免费节点</title>
+</bookmark>
+<bookmark href="https://www.curseforge.com/minecraft/mc-mods/living-wind" id="86">
+  <title>Living Wind - Minecraft Mods - CurseForge</title>
 </bookmark>
 </xbel>
