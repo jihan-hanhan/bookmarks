@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :87: for Floccus bookmark sync browser extension -->
+<!--- highestId :88: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/" id="1">
   <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
@@ -166,6 +166,9 @@
   </bookmark>
   <bookmark href="https://mathdf.com/equ/cn/" id="82">
     <title>在线方程、不等式和系统计算器</title>
+  </bookmark>
+  <bookmark href="https://yoyapai.com/category/mianfeijiedian" id="88">
+    <title>免费Clash(Meta/Mihomo)、V2Ray、SS/SSR机场节点订阅分享丨每日更新丨优雅数字派</title>
   </bookmark>
 </folder>
 <folder id="8">
