@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :88: for Floccus bookmark sync browser extension -->
+<!--- highestId :89: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.bilibili.com/" id="1">
   <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
@@ -169,6 +169,9 @@
   </bookmark>
   <bookmark href="https://yoyapai.com/category/mianfeijiedian" id="88">
     <title>免费Clash(Meta/Mihomo)、V2Ray、SS/SSR机场节点订阅分享丨每日更新丨优雅数字派</title>
+  </bookmark>
+  <bookmark href="https://app.unlimitedai.chat/zh" id="89">
+    <title>Unlimited AI Chat - 无限制的AI | 无需登录 | 永久免费</title>
   </bookmark>
 </folder>
 <folder id="8">
